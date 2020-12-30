@@ -2,7 +2,16 @@
 @import url(../fonts/fonts.css);
 @import url(../blocks/page/page.css);
 
-
 .content {
   margin: 0 auto;
+}
+
+.content p {
+  font-family: 'Inter';
+  font-size: 2rem;
+}
+.content span {
+  font-family: 'Inter';
+  font-weight: bold;
+  font-size: 2rem;
 }
