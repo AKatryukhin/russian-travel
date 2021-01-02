@@ -1,14 +1,8 @@
-.header__link {
-  color: #FFF;
-  transition: opacity 0.5s linear;
-  margin-right: 0;
-}
 
-.header__link:hover {
-  opacity: 0.5;
-}
 
-.header__link::after {
+
+
+/*.lead__polka::after {
   content: "";
   height: 52px;
   width: 176px;
