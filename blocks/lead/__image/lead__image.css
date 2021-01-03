@@ -6,8 +6,8 @@
 
  .lead__image::after {
   content: "";
-  width: 877px;
-  height: 238 px;
+  width: 878px;
+  height: 238px;
   background-image: url(../../../images/lead-map.svg);
   background-size: contain;
   background-repeat: no-repeat;
