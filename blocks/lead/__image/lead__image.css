@@ -1,4 +1,21 @@
 .lead__image {
   margin: 0;
   width: 100%;
+  position: relative;
  }
+
+ .lead__image::after {
+  content: "";
+  width: 877px;
+  height: 238 px;
+  background-image: url(../../../images/lead-map.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  z-index: 1;
+  position: absolute;
+  top: 80px;
+  left: 22px;
+  object-fit: contain;
+  object-position: right;
+}
+

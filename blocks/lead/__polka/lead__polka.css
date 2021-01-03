@@ -1,16 +1,6 @@
 .lead__polka {
-  width: 100%;
+  width: 921px;
+  height: 555px;
   }
 
 
-
-.lead__polka::after {
-  content: "";
-  width: 90%;
-  background-image: url(../../../images/lead-map.svg);
-  background-size: cover;
-  position: absolute;
-  left: 0;
-  right: 0;
-  z-index: 1;
-}
