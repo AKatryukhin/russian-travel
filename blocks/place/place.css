@@ -1,8 +1,6 @@
 .place {
-max-height: 640px;
-display: flex;
-flex-direction: column;
-justify-content: space-between;
-
-
+max-height: 100%;
+display: grid;
+grid-template-columns: minmax(440px, 1fr) 1fr;
+gap: 48px 32px;
 }
