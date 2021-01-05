@@ -1,0 +1,8 @@
+.place {
+max-height: 640px;
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+
+
+}
