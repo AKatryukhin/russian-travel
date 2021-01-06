@@ -2,4 +2,9 @@
 color: #fff;
 font-size: 18px;
 line-height: 1.6;
+margin: 0 0 27px;
+}
+
+.place__paragraph:last-child {
+  margin: 0;
 }
