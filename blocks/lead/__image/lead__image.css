@@ -6,14 +6,14 @@
 
  .lead__image::after {
   content: "";
-  width: 100%;
+  width: 95%;
   height: 50%;
   background-image: url(../../../images/lead-map.svg);
   background-size: contain;
   background-repeat: no-repeat;
   z-index: 1;
   position: absolute;
-  top: 10%;
-  left: 0;
+  top: 85px;
+  left: 22px;
   }
 

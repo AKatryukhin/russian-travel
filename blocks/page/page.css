@@ -1,6 +1,6 @@
 .page {
   font-family: 'Inter';
-  width: 95vw;
+  min-width: 1024px;
   margin: 0 auto;
   padding: 28px 48px 24px;
   background-image: linear-gradient(to right, #434343 0%, black 100%);
