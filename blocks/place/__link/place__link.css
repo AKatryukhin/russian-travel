@@ -2,5 +2,11 @@
   color: #fff;
   font-size: 12px;
   line-height: 1.2;
-  width: 456px;
+  text-decoration: none;
+  margin-top: 12px;
+  transition: opacity 0.5s linear;
+}
+
+.place__link:hover {
+  opacity: 0.5;
 }
