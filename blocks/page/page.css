@@ -4,8 +4,7 @@
   min-width: 320px;
   margin: 0 auto;
   padding: 28px 48px 24px;
-  background-image: linear-gradient(to right, #434343 0%, black 100%);
-  }
+  background-color: rgba(42,44,47,1);
 
 .content {
   margin: 0;
