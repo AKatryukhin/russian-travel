@@ -13,7 +13,22 @@
   background-repeat: no-repeat;
   z-index: 1;
   position: absolute;
-  top: 85px;
-  left: 22px;
+  top: 14%;
+  left: 3%;
   }
 
+  @media screen and (min-width: 1280px) {
+    .lead__image::after {
+    position: absolute;
+    top: 14%;
+    left: 3%;
+    }
+  }
+
+  @media  all and (min-width: 768px) and (max-width: 1023px) {
+    .lead__image::after {
+    position: absolute;
+    top: 14%;
+    left: 3%;
+      }
+  }
