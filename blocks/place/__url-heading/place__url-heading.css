@@ -1,7 +1,14 @@
 .place__url-heading {
 color: rgb(177, 174, 174);
 font-size: 12px;
-line-height: 1;
-letter-spacing: 0.2em;
+line-height: 1.6;
+letter-spacing: 20%;
 margin-bottom: 12px;
 }
+
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+  .place__url-heading {
+    font-size: 12px;
+    line-height: 1;
+    }
+  }
