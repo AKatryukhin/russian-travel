@@ -10,8 +10,14 @@ line-height: 1.05;
   .place__title {
     font-size: 42px;
     line-height: 1.1;
-    justify-self: start;
-    align-self: start;
     padding-right: 3%;
     }
+  }
+
+  @media screen and (min-width: 320px) and (max-width: 767px) {
+  .place__title {
+    font-size: 32px;
+    line-height: 1.1;
+    padding-right: 3%;
+      }
   }
