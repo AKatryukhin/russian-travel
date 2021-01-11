@@ -17,18 +17,21 @@
   left: 3%;
   }
 
+  @media  all and (min-width: 768px) and (max-width: 1023px) {
+    .lead__image {
+      margin: 0 -24px;
+      }
+  }
+
+  @media  all and (min-width: 320px) and (max-width: 767px) {
+    .lead__image {
+      margin: 0 -16px;
+      }
+  }
+
   @media screen and (min-width: 1280px) {
-    .lead__image::after {
-    position: absolute;
-    top: 14%;
-    left: 3%;
+    .lead__image {
+      margin: 0 100px;
     }
   }
 
-  @media screen and (min-width: 768px) and (max-width: 1023px) {
-    .lead__image::after {
-    position: absolute;
-    top: 14%;
-    left: 3%;
-      }
-  }
