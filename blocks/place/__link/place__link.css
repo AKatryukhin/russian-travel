@@ -1,6 +1,6 @@
 .place__link {
   color: #fff;
-  font-size: 12px;
+  font-size: 18px;
   font-weight: normal;
   line-height: 1.2;
   transition: opacity 0.5s linear;
@@ -10,16 +10,3 @@
   opacity: 0.5;
 }
 
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-  .place__link {
-    font-size: 18px;
-    line-height: 1.2;
-    }
-  }
-
-  @media screen and (min-width: 768px) and (max-width: 1023px) {
-    .place__link {
-      font-size: 18px;
-      line-height: 1.2;
-      }
-    }
