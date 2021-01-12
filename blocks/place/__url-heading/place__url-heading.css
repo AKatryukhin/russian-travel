@@ -2,7 +2,8 @@
 color: rgb(177, 174, 174);
 font-size: 12px;
 line-height: 1.6;
-font-weight: normal;
+font-style: normal;
+font-weight: 400;
 letter-spacing: 0.2em;
 margin-bottom: 12px;
 }
