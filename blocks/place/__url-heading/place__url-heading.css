@@ -1,6 +1,6 @@
 .place__url-heading {
   color: rgb(177, 174, 174);
-  font-family: "Inter";
+  font-family: "Inter", 'Arial', 'Helvetica', sans-serif;
   font-size: 12px;
   line-height: 1.6;
   font-style: normal;
