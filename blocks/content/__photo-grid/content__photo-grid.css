@@ -1,10 +1,10 @@
 .content__photo-grid {
-  margin: 0 48px 92px;
+  margin: 0 48px;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .content__photo-grid  {
-    margin: 0 24px 88px;
+    margin: 0 24px;
   }
 }
 
