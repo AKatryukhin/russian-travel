@@ -1,14 +1,9 @@
 .place {
-  margin-bottom: 80px;
   display: grid;
   grid-template-columns: 440px 1fr;
   gap: 48px 32px;
   justify-content: space-between;
   align-content: space-between;
-}
-
-.place:last-child {
-  margin: 0;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
